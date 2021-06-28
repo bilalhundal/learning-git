@@ -1,2 +1,2 @@
 # learning-git
-project for Git practice
+project for Git practice,.
